@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saqsy (Saquib Kazi)
-- 👀 I’m interested in Java, Python based BE and React, Angular based FE to create awesome web applications
-- 🌱 I’m currently learning Spring Boot, Spring Cloud, React.
+- 👀 I’m interested in Java based backend and React based FE to create awesome web applications
+- 🌱 I’m currently learning Spring Boot, React.
 - 💞️ I’m looking to collaborate on building microservices, web applications, test automation frameworks
 - 📫 How to reach me hello@saquibkazi.com
 
